@@ -1,0 +1,9 @@
+html, h1, h2, h3, h4, h5, h6, .sidebar,  .pagination {
+ 	font-family: "Open Sans", "Microsoft YaHei", "Hiragino Sans GB", "Hiragino Sans GB W3", "微软雅黑", "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+   font-weight: 100;
+	-webkit-font-smoothing: antialiased;
+}
+
